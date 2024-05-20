@@ -1,1 +1,46 @@
 
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recife Antigo</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Pontos Turísticos do Recife Antigo</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Marco Zero</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="paco-do-frevo">
+            <h2>Paço do Frevo</h2>
+            <div class="card">
+                <img src="paco_do_frevo.jpg" alt="Paço do Frevo">
+                <div class="card-content">
+                    <p>O Paço do Frevo é um espaço cultural dedicado à celebração e preservação do frevo, uma das mais importantes manifestações culturais de Pernambuco. Localizado no Recife Antigo, o Paço do Frevo oferece exposições interativas, apresentações de dança e oficinas educativas, proporcionando uma experiência imersiva na história e na cultura do frevo.</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="cais-do-sertao">
+            <h2>Centro Cultural Cais do Sertão</h2>
+            <div class="card">
+                <img src="cais_do_sertao.jpg" alt="Centro Cultural Cais do Sertão">
+                <div class="card-content">
+                    <p>O Centro Cultural Cais do Sertão é um museu moderno e interativo que homenageia a cultura sertaneja e a vida do cantor e compositor Luiz Gonzaga. Situado no Recife Antigo, o museu apresenta exposições que retratam a vida no sertão nordestino, incluindo música, arte e história, proporcionando uma conexão profunda com as raízes culturais da região.</p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Pontos Turísticos do Recife Antigo. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
